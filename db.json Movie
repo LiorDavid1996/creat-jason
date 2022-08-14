@@ -1,0 +1,37 @@
+{
+
+ "data":[
+    {
+        "id":123,
+        "name":"speder-man",
+        "isAvibel":true,
+        "year":2019,
+        "actors":["lior","or","batel","aviel"]
+    
+    },
+    {
+        "id":14533,
+        "name":"x-man",
+        "isAvibel":true,
+        "year":2017,
+        "actors":["dalia","ori","yonthn","aviel"]
+    
+    },
+    {
+        "id":3233,
+        "name":"super-man",
+        "isAvibel":true,
+        "year":2015,
+        "actors":["lior","or","batel","aviel"]
+    
+    },
+    {
+        "id":3233,
+        "name":"big-mama",
+        "isAvibel":true,
+        "year":2016,
+        "actors":["haim","or","batel","aviel"]
+    
+    }
+ ]
+}
